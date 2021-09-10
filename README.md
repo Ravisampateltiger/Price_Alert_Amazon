@@ -1,2 +1,4 @@
-# Price_Alert_Amazon
-This is a py file for price alert
+C3PO is a web-scraper built on BeautifulSoup that alerts you when the price of an amazon prduct falls within your budget! Currently in development.
+
+How to use ??
+Simply copy-paste the link of the product and your budget- that's it! The scraper will do the rest for you and notify you when the price is in your budget. However, it is to be kept in mind that the sender email ID and password has been stored in os variables in the script. Therefore, wherever you see the imports of 'DEVELOPER_EMAIL' and 'DEVELOPER_PASS', be sure to replace them with the email ID you wish to recieve the notification from.
